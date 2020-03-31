@@ -117,6 +117,12 @@ P{
   text-align: center;
 }
 
+.about-author img{
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+}
+
 .post-author img, .about-author img{
   border-radius: 50%;
 }
